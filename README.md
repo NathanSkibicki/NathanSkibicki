@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 Portfolio Website [https://nathanskibicki.github.io/](https://nathanskibicki.github.io/)
+- 👨‍💻 Portfolio Website [[https://nathanskibicki.github.io/]([https://nathanskibicki.github.io/](https://nathanskibicki.github.io/Portfolio/))](https://nathanskibicki.github.io/Portfolio/)
 
 - 📫 How to reach me **nathans.skibicki@gmail.com**
 
