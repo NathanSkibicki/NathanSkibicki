@@ -2,10 +2,6 @@
 <h3 align="center">An ambitious Computer Science Student at the University of Western Ontario</h3>
 <img align = "right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTczYzg2MTk0OWUwZTVkMTFjMmU4MTNmY2JkNzkzN2M4MGFhYjAzZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Sportek**
-
-- 🌱 I’m currently learning **React.js**
-
 - 👨‍💻 Portfolio Website [[https://nathanskibicki.github.io/]([https://nathanskibicki.github.io/](https://nathanskibicki.github.io/Portfolio/))](https://nathanskibicki.github.io/Portfolio/)
 
 - 📫 How to reach me **nathans.skibicki@gmail.com**
