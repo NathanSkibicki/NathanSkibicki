@@ -4,7 +4,6 @@
 
 - 👨‍💻 Portfolio Website [[https://nathanskibicki.github.io/]([https://nathanskibicki.github.io/](https://nathanskibicki.github.io/Portfolio/))](https://nathanskibicki.github.io/Portfolio/)
 
-- 📫 How to reach me **nathans.skibicki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
